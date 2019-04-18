@@ -1,17 +1,17 @@
 # Site settings
-title: Akansha Vashisth
+title: Birinder Singh
 description: A blog about Data science
 # baseurl: "/particle" # the subpath of your site, e.g. /blog
 # url: "localhost:4000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
-username: Akansha Vashisth
+username: Birinder Singh
 user_description: My journey from Software Engineering to Data Science
 user_subtitle: Data Scientist
-email: akanshavashisth@gmail.com
+email: birinder1469@gmail.com
 facebook_username: 
 instagram_username: indian_musafir
 twitter_username: vashisth_ak
-github_username:  akanshaVashisth
+github_username:  birinder1469
 
 sass:
   sass_dir: css
