@@ -1,17 +1,17 @@
 # Site settings
-title: Avinash Prabhakaran
-description: My Personal Website
+title: Akansha Vashisth
+description: A blog about Data science
 # baseurl: "/particle" # the subpath of your site, e.g. /blog
 # url: "localhost:4000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
-username: Avinash Prabhakaran
-user_description: Data Scientist with Masters degree from The University of British Columbia having over two years of experience in using R and Python for data wrangling, visualization, and modeling.  A team player with leadership and organizational skills who loves challenging opportunities that offer new perspectives and collaborative experience.
+username: Akansha Vashisth
+user_description: My journey from Software Engineering to Data Science
 user_subtitle: Data Scientist
-email: avinashkp26@gmail.com
-facebook_username: Avinash.Prabhakaran
-instagram_username: ziavi7
-twitter_username: ziavinash
-github_username:  avinashkz
+email: akanshavashisth@gmail.com
+facebook_username: 
+instagram_username: indian_musafir
+twitter_username: vashisth_ak
+github_username:  akanshaVashisth
 
 sass:
   sass_dir: css
